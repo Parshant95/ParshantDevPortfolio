@@ -294,7 +294,7 @@ a{
 }
 
 .project-container{
-    max-width: 55rem;
+    max-width: 65rem;
     margin: 0 auto;
     padding: 3rem 0;
     display: flex;
@@ -303,7 +303,7 @@ a{
 }
 
 .project-card{
-    width: 90%;
+    width: 100%;
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -311,15 +311,15 @@ a{
     position: relative;
 }
 #project1{
-    background-image: url(./images/weatherbg.png);
+    background-image: url(./images/piescript.png);
 }
 
 #project2{
-    background-image: url(./images/Project2.png);
+    background-image: url(./images/projectcars.png);
 }
 
 #project3{
-    background-image: url(images/discird.png);
+    background-image: url(images/bingwatch.png);
 }
 
 #project4{
@@ -333,7 +333,7 @@ a{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #1f1f1f9a;
+    
     transform: scaleX(1);
 }
 
